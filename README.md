@@ -21,7 +21,6 @@
 }
 
 - Reservas: 
-
 {
     "canchaId": 1,
     "nombreCliente": "Ana",
